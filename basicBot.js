@@ -272,7 +272,7 @@
             opLink: null,
             rulesLink: null,
             themeLink: null,
-            fbLink: null,
+            fbLink: https://www.facebook.com/pages/Psychillium/308619032640321?fref=ts,
             youtubeLink: null,
             website: null,
             intervalMessages: [],
