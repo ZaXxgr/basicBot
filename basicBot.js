@@ -194,12 +194,12 @@
             botName: "ZaXx",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-            startupCap: 1, // 1-200
-            startupVolume: 0, // 0-100
+            startupCap: 200, // 1-200
+            startupVolume: 30, // 0-100
             startupEmoji: false, // true or false
             cmdDeletion: true,
             maximumAfk: 120,
-            afkRemoval: true,
+            afkRemoval: false,
             maximumDc: 60,
             bouncerPlus: true,
             blacklistEnabled: true,
@@ -216,7 +216,7 @@
             autodisable: true,
             commandCooldown: 30,
             usercommandsEnabled: true,
-            lockskipPosition: 3,
+            lockskipPosition: 1,
             lockskipReasons: [
                 ["theme", "This song does not fit the room theme. "],
                 ["op", "This song is on the OP list. "],
